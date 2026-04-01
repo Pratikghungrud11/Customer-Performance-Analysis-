@@ -42,7 +42,11 @@ This project presents an interactive **Customer Performance Dashboard** built us
 ---
 
 ## 📷 Dashboard Preview  
-> 
+> ### 🌙 Dark Mode  
+![Dashboard Dark](image_2.png)
+
+### ☀️ Light Mode  
+![Dashboard Light](image_1.png)
 
 ---
 
