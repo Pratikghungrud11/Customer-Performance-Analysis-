@@ -49,7 +49,10 @@ This project presents an interactive **Customer Performance Dashboard** built us
 ![Dashboard Light](image_1.png)
 
 ---
+## 🔗 Try It Out  
 
+🚀 **Live Interactive Dashboard:**  
+👉 (https://tinyurl.com/yck7tzdr)
 ## 📂 How to Use  
 1. Open the Power BI report  
 2. Use the **Country slicer** to filter data  
